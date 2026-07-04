@@ -26,6 +26,7 @@ x, y = load_points("xy_data.csv")
 # xshift_range = np.linspace(0, 100, 50)
 # this would be 50*20*50 = 50000 iterations, too slow
 
+
 # just plot the data for now
 plt.figure(figsize=(7, 5))
 plt.scatter(x, y, s=5, alpha=0.4)
