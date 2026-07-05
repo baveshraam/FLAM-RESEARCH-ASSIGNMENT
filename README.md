@@ -85,7 +85,7 @@ visualization
 
 
 
-desmos verification
+# desmos verification
 
 [view on desmos](https://www.desmos.com/calculator/gsm54tztny)
 
@@ -96,10 +96,13 @@ theta = 30 deg (0.5236 rad)
 M = 0.03
 X =  55
 
+```
 \left(t*\cos(0.5236)-e^{0.03\left|t\right|}\cdot\sin(0.3t)\sin(0.5236)+55,42+t\sin(0.5236)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)
+```
 
 
-files
+
+#files
 
 solution3.py final code
 
@@ -111,6 +114,7 @@ xy_data.csv input data
 
 fit.png plot
 
+data_raw.png raw plot
 
 
 paste this to run 
