@@ -79,23 +79,25 @@ max point to curve distance = 9.58e-04
 
 
 
-visualization
+# visualization
 
 ![fit plot](fit.png)
 
 
 
-# desmos verification
-
-[view on desmos](https://www.desmos.com/calculator/gsm54tztny)
 
 
-*FINAL ANSWER*
+## *FINAL ANSWER*
 
 theta = 30 deg (0.5236 rad)
 M = 0.03
 X =  55
 
+
+
+## desmos verification
+
+[view on desmos](https://www.desmos.com/calculator/gsm54tztny)
 ```
 \left(t*\cos(0.5236)-e^{0.03\left|t\right|}\cdot\sin(0.3t)\sin(0.5236)+55,42+t\sin(0.5236)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)
 ```
