@@ -113,4 +113,4 @@ paste this to run
 
 pip install numpy scipy matplotlib
 
-python solution.py
+python solution3.py
