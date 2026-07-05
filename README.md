@@ -67,11 +67,11 @@ pca guess into scipy least_squares with bounds. converged.
 
 results
 
-theta = 30.0000 deg (0.523598 rad)
+theta = 30 deg (0.523598 rad)
 
-m = 0.03000
+m = 0.03
 
-x = 55.0000
+x = 55
 
 rms residual = 3.49e-06
 
@@ -90,7 +90,13 @@ desmos verification
 [view on desmos](https://www.desmos.com/calculator/gsm54tztny)
 
 
+*FINAL ANSWER*
 
+theta = 30 deg (0.5236 rad)
+M = 0.03
+X =  55
+
+\left(t*\cos(0.5236)-e^{0.03\left|t\right|}\cdot\sin(0.3t)\sin(0.5236)+55,42+t\sin(0.5236)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)
 
 
 files
