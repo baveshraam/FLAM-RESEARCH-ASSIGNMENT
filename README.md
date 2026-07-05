@@ -1,5 +1,5 @@
-so updating readme:
-problem
+
+problem: 
 
 find theta, m, x in the parametric curve
 
@@ -88,8 +88,6 @@ visualization
 desmos verification
 
 [view on desmos](https://www.desmos.com/calculator/gsm54tztny)
-
-
 
 
 
